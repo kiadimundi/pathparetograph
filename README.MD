@@ -1,4 +1,8 @@
+[![DOI](https://zenodo.org/badge/710171280.svg)](https://zenodo.org/doi/10.5281/zenodo.10044243)
+
 # Analysis of paths for decision support
+
+Path Pareto Graph Analysis © 2023 by Jens Weise is licensed under CC BY-NC-SA 4.0 
 
 IMPORTANT: The code in the `ext` folder is not mine. All respect to the authors of the forceatlas2 library.
 
